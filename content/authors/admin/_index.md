@@ -51,4 +51,4 @@ S﻿anbao Su is a P.h.D. student at the University of Connecticut. His current r
 
 Sanbao Su received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. He worked as a software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. He joined UConn as a P.h.D. student in computer science and engineering starting in Autumn 2021.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "./media/sanbaosu_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Media/sanbaosu_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
