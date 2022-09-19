@@ -24,14 +24,6 @@ social:
 organizations:
   - name: University of Connecticut
     url: https://uconn.edu/
-  - name: Nanjing University
-    url: https://www.nju.edu.cn/EN/main.htm
-  - url: https://en.sjtu.edu.cn/
-    name: Shanghai Jiao Tong University
-  - url: https://www.huawei.com/us/
-    name: Shanghai Huawei Technologies Company,
-  - url: https://www.cadence.com/en_US/home.html
-    name: Cadence Design Systems, Inc.
 education:
   courses:
     - course: P.h,D, in Computer Science and Engineering
