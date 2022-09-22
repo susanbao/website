@@ -25,7 +25,7 @@ experience:
   - title: Full-time Software Engineer
     company: Shanghai Huawei Technologies Company
     company_url: 'https://www.huawei.com/us/'
-    company_logo: Huawei
+    company_logo: huawei.jpg
     location: Shanghai, China
     date_start: '2019-04-07'
     date_end: '2021-08-14'
@@ -39,7 +39,7 @@ experience:
   - title: Deep Learning Research Intern
     company: Cadence Design System Company
     company_url: 'https://www.cadence.com/en_US/home.html'
-    company_logo: cadence
+    company_logo: cadence.jpeg
     location: Shanghai, China
     date_start: '2018-07-01'
     date_end: '2018-10-31'

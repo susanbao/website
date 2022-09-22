@@ -15,10 +15,10 @@ abstract: Sharing information between connected and autonomous vehicles (CAVs)
   comprehensive collaborative perception dataset, we show that our Double-M
   method achieves more than 4$\times$ improvement on uncertainty score and more
   than 3\% accuracy improvement, compared with the state-of-the-art uncertainty
-  quantification methods. Our code is public on \url{
-  https://coperception.github.io/double-m-quantification/}.
+  quantification methods. Our code is public on 
+  https://coperception.github.io/double-m-quantification/.
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2209.08162.pdf"
 publication_types:
   - "1"
 authors:
@@ -39,17 +39,17 @@ url_source: ""
 url_video: ""
 title: Uncertainty Quantification of Collaborative Detection for Self-Driving
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: disco_5_20.png
+  filename: uq.png
 date: 2022-09-22T23:29:00.499Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022-09-22T23:29:00.499Z
 url_poster: ""
 url_code: ""
 ---
