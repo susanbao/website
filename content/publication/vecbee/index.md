@@ -18,7 +18,7 @@ url_project: ""
 publication_short: In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 url_source: "https://github.com/SJTU-ECTL/VECBEE"
 url_video: ""
-title: VECBEE: A Versatile Efficiency-Accuracy Configurable Batch Error Estimation Method for Greedy Approximate Logic Synthesis
+title: VECBEE A Versatile Efficiency-Accuracy Configurable Batch Error Estimation Method for Greedy Approximate Logic Synthesis
 featured: false
 tags: []
 projects:
