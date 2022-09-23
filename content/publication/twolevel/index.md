@@ -12,7 +12,7 @@ url_pdf: "https://ieeexplore.ieee.org/document/8599060"
 url_dataset: ""
 url_project: ""
 publication_short: In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-url_source: "https://github.com/SJTU-ECTL/VECBEE"
+url_source: ""
 url_video: ""
 title: A Novel Heuristic Search Method for Two-Level Approximate Logic Synthesis
 featured: false
