@@ -16,6 +16,7 @@ title: Efficient Batch Statistical Error Estimation for Iterative Multi-level Ap
 featured: false
 tags: []
 projects:
+  - approximate-logic-synthesis
 date: 2022-05-22T00:00:00.000Z
 url_slides: ""
 publishDate: 2018-07-22T00:00:00.000Z
