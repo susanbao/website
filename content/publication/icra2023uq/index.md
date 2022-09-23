@@ -35,7 +35,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: ""
+url_source: "https://coperception.github.io/double-m-quantification/"
 url_video: ""
 title: Uncertainty Quantification of Collaborative Detection for Self-Driving
 doi: ""

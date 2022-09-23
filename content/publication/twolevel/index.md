@@ -19,9 +19,9 @@ featured: false
 tags: []
 projects:
   - approximate-logic-synthesis
-date: 2022-05-22T00:00:00.000Z
+date: 2020-05-22T00:00:00.000Z
 url_slides: ""
-publishDate: 2022-05-22T00:00:00.000Z
+publishDate: 2020-05-22T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
