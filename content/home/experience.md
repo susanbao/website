@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: University of Connecticut
+    company_url: 'https://uconn.edu/'
+    company_logo: 
+    location: Storrs, CT, USA
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Coding
+        * Modeling
   - title: Full-time Software Engineer
     company: Shanghai Huawei Technologies Company
     company_url: 'https://www.huawei.com/us/'
@@ -35,7 +48,19 @@ experience:
         * Coding
         * Testing
         * Reviewing
-
+  - title: Research Assistant
+    company: UM-SJTU Joint Institute
+    company_url: 'https://www.ji.sjtu.edu.cn/'
+    company_logo: 
+    location: Shanghai, China
+    date_start: '2016-09-01'
+    date_end: '2019-03-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Coding
+        * Modeling
   - title: Deep Learning Research Intern
     company: Cadence Design System Company
     company_url: 'https://www.cadence.com/en_US/home.html'
