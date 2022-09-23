@@ -8,11 +8,6 @@ subtitle: null
 active: true
 content:
   form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
   autolink: false
   office_hours:
   phone: 
