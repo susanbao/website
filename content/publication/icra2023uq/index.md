@@ -22,7 +22,7 @@ url_pdf: "https://arxiv.org/pdf/2209.08162.pdf"
 publication_types:
   - "1"
 authors:
-  - Sanbao Su
+  - admin
   - Yiming Li
   - Sihong He
   - Songyang Han
@@ -43,10 +43,10 @@ featured: false
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: "Detection results of our Double-M Quantification"
   focal_point: ""
   preview_only: false
-  filename: uq.png
+  filename: ./uq.png
 date: 2022-09-22T23:29:00.499Z
 url_slides: ""
 publishDate: 2022-09-22T23:29:00.499Z
