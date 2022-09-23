@@ -1,7 +1,7 @@
 ---
 title: Sanbao Su
 role: P.h.D. student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include uncertainty quantification, perception, deep
   Learning, reinforcement learning.
 interests:
