@@ -1,8 +1,11 @@
 ---
 title: Uncertainty Quantification on Collaborative Perception
 date: 2022-09-23T01:20:26.156Z
+tags:
+- Deep Learning
 draft: false
-featured: false
+external_link: ""
+links: []
 image:
   filename: featured.png
   focal_point: Smart

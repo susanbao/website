@@ -41,9 +41,10 @@ title: Uncertainty Quantification of Collaborative Detection for Self-Driving
 doi: ""
 featured: false
 tags: []
-projects: []
+projects:
+  - uncertainty-quantification-on-collaborative-perception
 image:
-  caption: "Detection results of our Double-M Quantification"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: ./uq.png

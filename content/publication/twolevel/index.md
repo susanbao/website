@@ -18,6 +18,7 @@ title: A Novel Heuristic Search Method for Two-Level Approximate Logic Synthesis
 featured: false
 tags: []
 projects:
+  - approximate-logic-synthesis
 date: 2022-05-22T00:00:00.000Z
 url_slides: ""
 publishDate: 2022-05-22T00:00:00.000Z

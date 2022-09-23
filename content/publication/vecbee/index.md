@@ -22,6 +22,7 @@ title: VECBEE A Versatile Efficiency-Accuracy Configurable Batch Error Estimatio
 featured: false
 tags: []
 projects:
+  - approximate-logic-synthesis
 date: 2022-05-22T00:00:00.000Z
 url_slides: ""
 publishDate: 2022-05-22T00:00:00.000Z
