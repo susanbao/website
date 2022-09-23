@@ -43,6 +43,3 @@ I am a Ph.D. student at the University of Connecticut. My current research inter
 
 
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/sanbaosu_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
