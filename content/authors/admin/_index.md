@@ -3,7 +3,7 @@ title: Sanbao Su
 role: P.h.D. student
 avatar_filename: avatar.png
 bio: My research interests include uncertainty quantification, perception, deep
-  Learning, reinforcement learning.
+  learning, reinforcement learning.
 interests:
   - Uncertainty Quantification
   - Perception
@@ -39,7 +39,7 @@ email: susanbaonju@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. student at the University of Connecticut. My current research interests include uncertainty quantification, perception, deep Learning, and reinforcement learning.
+I am a Ph.D. student at the University of Connecticut. My current research interests include uncertainty quantification, perception, deep learning, and reinforcement learning.
 
 
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
