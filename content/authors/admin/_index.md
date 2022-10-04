@@ -26,7 +26,7 @@ organizations:
     url: https://uconn.edu/
 education:
   courses:
-    - course: P.h.D, in Computer Science and Engineering
+    - course: Ph.D. in Computer Science and Engineering
       institution: University of Connecticut
       year: 2025 (expected)
     - course: MS in Electronic Science and Technology
