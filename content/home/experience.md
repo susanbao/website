@@ -53,7 +53,7 @@ experience:
   - title: Full-time Software Engineer
     company: Shanghai Huawei Technologies Company
     company_url: 'https://www.huawei.com/us/'
-    company_logo: huawei
+    company_logo: huawei.jpg
     location: Shanghai, China
     date_start: '2019-04-07'
     date_end: '2021-08-14'
