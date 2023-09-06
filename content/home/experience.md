@@ -35,6 +35,21 @@ experience:
         * Research
         * Coding
         * Modeling
+  - title: Research Intern
+    company: Bosch
+    company_url: 'https://www.bosch.us/our-company/innovation/'
+    company_logo: 
+    location: Sunnyvale, CA, USA
+    date_start: '2023-05-08'
+    date_end: '2023-08-25'
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Coding
+        * Modeling
+        * Presentation
+        * Submitting paper  
   - title: Full-time Software Engineer
     company: Shanghai Huawei Technologies Company
     company_url: 'https://www.huawei.com/us/'
