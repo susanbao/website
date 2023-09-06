@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: University of Connecticut
     company_url: 'https://uconn.edu/'
-    company_logo: 
+    company_logo: uconn
     location: Storrs, CT, USA
     date_start: '2021-09-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Research Intern
     company: Bosch
     company_url: 'https://www.bosch.us/our-company/innovation/'
-    company_logo: 
+    company_logo: bosch
     location: Sunnyvale, CA, USA
     date_start: '2023-05-08'
     date_end: '2023-08-25'
@@ -52,7 +52,7 @@ experience:
         * Submitting paper  
   - title: Full-time Software Engineer
     company: Shanghai Huawei Technologies Company
-    company_url: 'https://www.huawei.com/us/'
+    company_url: 'https://www.huawei.com/en/'
     company_logo: huawei
     location: Shanghai, China
     date_start: '2019-04-07'
@@ -66,7 +66,7 @@ experience:
   - title: Research Assistant
     company: UM-SJTU Joint Institute
     company_url: 'https://www.ji.sjtu.edu.cn/'
-    company_logo: 
+    company_logo: sjtulogored
     location: Shanghai, China
     date_start: '2016-09-01'
     date_end: '2019-03-30'
@@ -79,7 +79,7 @@ experience:
   - title: Deep Learning Research Intern
     company: Cadence Design System Company
     company_url: 'https://www.cadence.com/en_US/home.html'
-    company_logo: 
+    company_logo: cadence
     location: Shanghai, China
     date_start: '2018-07-01'
     date_end: '2018-10-31'
