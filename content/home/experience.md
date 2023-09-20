@@ -35,6 +35,7 @@ experience:
         * Research
         * Coding
         * Modeling
+        * Leading Projects
   - title: Research Intern
     company: Bosch
     company_url: 'https://www.bosch.us/our-company/innovation/'
@@ -63,6 +64,8 @@ experience:
         * Coding
         * Testing
         * Reviewing
+        * Collaboration
+        * Leading Projects
   - title: Research Assistant
     company: UM-SJTU Joint Institute
     company_url: 'https://www.ji.sjtu.edu.cn/'

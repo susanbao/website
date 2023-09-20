@@ -1,6 +1,6 @@
 ---
 title: Sanbao Su
-role: P.h.D. student
+role: Ph.D. student
 avatar_filename: avatar.png
 bio: My research interests include uncertainty quantification, perception, deep
   learning, reinforcement learning.
@@ -45,7 +45,7 @@ I am a Ph.D. student at the University of Connecticut. My current research inter
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
 
 ## News
-* [2023/8] Finish the research internship at Bosch, Sunnyvale, CA, USA. Express my heartfelt gratitude to my manager, mentor and all colleagues.
+* [2023/8] Completed the research internship at Bosch, Sunnyvale, CA, USA. Express my heartfelt gratitude to my manager, mentor and all colleagues.
 * [2022/5] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
 * [2023/5] Exciting to receive the Synchrony Financial Cybersecurity Graduate Fellowship and the Predoctoral Fellowship from UCONN.
 * [2023/1] Our paper "Uncertainty Quantification of Collaborative Detection for Self-Driving" is accepted at ICRA 2023. See you at London.
