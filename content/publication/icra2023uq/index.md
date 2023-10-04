@@ -33,9 +33,9 @@ author_notes: []
 publication: ""
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://coperception.github.io/double-m-quantification/"
 publication_short: In ICRA 2023
-url_source: "https://coperception.github.io/double-m-quantification/"
+url_source: ""
 url_video: ""
 title: Uncertainty Quantification of Collaborative Detection for Self-Driving
 doi: ""

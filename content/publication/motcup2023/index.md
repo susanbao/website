@@ -16,9 +16,9 @@ author_notes: []
 publication: ""
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://coperception.github.io/MOT-CUP/"
 publication_short: Submitted to RA-L
-url_source: "https://coperception.github.io/MOT-CUP/"
+url_source: ""
 url_video: ""
 title: Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation
 doi: ""
