@@ -12,7 +12,7 @@ abstract: Various methods for Multi-Agent Reinforcement Learning (MARL) have bee
 url_pdf: "https://arxiv.org/pdf/2212.02705.pdf"
 url_dataset: ""
 url_project: ""
-publication_short: the FrontiersLCD Workshop at ICML 2023
+publication_short: In Transactions on Machine Learning Research
 url_source: ""
 url_video: ""
 title: What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?
@@ -20,9 +20,9 @@ featured: false
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
-date: 2023-07-28T00:00:00.000Z
+date: 2024-01-15T00:00:00.000Z
 url_slides: ""
-publishDate: 2023-07-28T00:00:00.000Z
+publishDate: #2023-07-28T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""

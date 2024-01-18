@@ -17,7 +17,7 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: "https://coperception.github.io/MOT-CUP/"
-publication_short: Submitted to RA-L
+publication_short: In IEEE Robotics and Automation Letters
 url_source: ""
 url_video: ""
 title: Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation
@@ -31,7 +31,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ./feature.png
-date: 2023-05-22T23:29:00.499Z
+date: 2024-01-18T23:29:00.499Z
 url_slides: ""
 publishDate: #2022-09-22T23:29:00.499Z
 url_poster: ""
