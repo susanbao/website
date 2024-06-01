@@ -31,13 +31,27 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Research
         * Coding
         * Modeling
         * Leading Projects
+  - title: Student Researcher
+    company: Google, AR Core, Motion Tracking Team
+    company_url: 'https://https://developers.google.com/ar'
+    company_logo: Google
+    location: Mountain View, CA, USA
+    date_start: '2024-05-20'
+    date_end: '2024-08-23'
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Coding
+        * Modeling
+        * Demo Presentation
   - title: Research Intern
-    company: Bosch
+    company: Bosch Research Center
     company_url: 'https://www.bosch.us/our-company/innovation/'
     company_logo: bosch
     location: Sunnyvale, CA, USA
