@@ -2,10 +2,9 @@
 title: Sanbao Su
 role: Ph.D. student
 avatar_filename: avatar.png
-bio: My research interests include uncertainty quantification, perception, deep
-  learning, reinforcement learning.
+bio: My research interests include robustness, perception, VLM, DL, and RL.
 interests:
-  - Uncertainty Quantification
+  - Robustness
   - Perception
   - Reinforcement Learning
 social:
