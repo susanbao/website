@@ -50,7 +50,7 @@ I received a bachelor’s degree in automation from Nanjing University, Nanjing,
 * [2024/3] Submit one paper to ECCV 02024.
 * [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters. It is available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
 * [2024/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by Transactions on Machine Learning Research.
-* [2023/11] Our paper "ViTAL: Vision Transformer-Assisted Active Testing for Label-Efficient Evaluation of Complex Vision Tasks" is submitted to CVPR 2024.
+<!-- * [2023/11] Our paper "ViTAL: Vision Transformer-Assisted Active Testing for Label-Efficient Evaluation of Complex Vision Tasks" is submitted to CVPR 2024. -->
 * [2023/8] Completed the research internship at Bosch, Sunnyvale, CA, USA. Express my heartfelt gratitude to my manager, mentor and all colleagues.
 <!-- * [2023/5] Our paper "Robust Multi-Agent Reinforcement Learning with State Uncertainty" is accepted by Transactions on Machine Learning Research.
 * [2023/5] Exciting to receive the Synchrony Financial Cybersecurity Graduate Fellowship and the Predoctoral Fellowship from UCONN.
