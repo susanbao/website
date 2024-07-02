@@ -14,11 +14,11 @@ authors:
   - Fei Miao
   - Liu Ren
 author_notes: []
-publication: ""
+publication: "2024 European Conference on Computer Vision"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In 2024 European Conference on Computer Vision
+publication_short: In ECCV 2024
 url_source: ""
 url_video: ""
 title: "MetaAT: Active Testing for Label-Efficient Evaluation of Dense Recognition Tasks"
