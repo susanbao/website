@@ -44,10 +44,10 @@ I am a Ph.D. student at the University of Connecticut. My current research inter
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a full-time software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
 
 ## News
+* [2024/6] Our paper "MetaAT: Active Testing for Label-Efficient Evaluation of Dense Recognition Tasks" is accepted by the 2024 European Conference on Computer Vision (ECCV).
 * [2024/5] Start my student researcher internship at Motion Tracking Team of Google, Mountain View, CA, USA.
 * [2024/5] Submit one paper to Neurips 2024.
 * [2024/5] Exciting to receive the Pratt & Whitney Advanced Systems Engineering Fellowship and the Predoctoral Fellowship from UCONN.
-* [2024/3] Submit one paper to ECCV 02024.
 * [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters. It is available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
 * [2024/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by Transactions on Machine Learning Research.
 <!-- * [2023/11] Our paper "ViTAL: Vision Transformer-Assisted Active Testing for Label-Efficient Evaluation of Complex Vision Tasks" is submitted to CVPR 2024. -->
