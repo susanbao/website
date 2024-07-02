@@ -2,7 +2,7 @@
 title: Multi-Agent Reinforcement Learning for Connected Autonomous Vehicles
 date: 2022-10-03T03:13:15.325Z
 tags:
-- Autonomous Driving
+- Deep Learning 
 draft: false
 featured: false
 external_link: ""

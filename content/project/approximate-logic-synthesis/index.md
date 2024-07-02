@@ -1,6 +1,8 @@
 ---
 title: Approximate Logic Synthesis
 date: 2022-09-23T01:28:26.966Z
+tags:
+- Other
 draft: false
 featured: false
 image:
