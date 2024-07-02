@@ -31,10 +31,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: ./feature.PNG
+  filename: ./feature.png
 date: 2024-07-18T23:29:00.499Z
 url_slides: ""
-publishDate: #2022-09-22T23:29:00.499Z
+publishDate: 2024-10-10T23:29:00.499Z
 url_poster: ""
 url_code: ""
 ---
