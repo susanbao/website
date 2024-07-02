@@ -26,6 +26,7 @@ doi: ""
 featured: false
 tags: []
 projects:
+  - uncertainty-quantification-on-collaborative-perception
 image:
   caption: ""
   focal_point: ""
