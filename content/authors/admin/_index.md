@@ -43,6 +43,8 @@ I am a Ph.D. student at the University of Connecticut. My current research inter
 
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a full-time software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
 
+**I am currently seeking full-time positions as a research scientist or machine learning engineer.**
+
 ## News
 * [2024/8] Start my applied scientist internship at Amazon Robotics, Westborough, MA, USA.
 * [2024/8] Finished my student researcher internship at Augmented Reality team of Google, Mountain View, CA, USA.

@@ -17,7 +17,7 @@ author_notes: []
 publication: "2024 European Conference on Computer Vision"
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://eccv.ecva.net/virtual/2024/poster/1535"
 publication_short: In ECCV 2024
 url_source: ""
 url_video: ""
@@ -36,7 +36,7 @@ date: 2024-07-18T23:29:00.499Z
 url_slides: ""
 publishDate: 2024-10-10T23:29:00.499Z
 url_poster: ""
-url_code: ""
+url_code: "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10062.pdf"
 ---
 
 
