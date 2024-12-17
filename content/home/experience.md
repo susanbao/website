@@ -36,6 +36,21 @@ experience:
         * Coding
         * Modeling
         * Leading Projects
+  - title: Applied Scientist Intern
+    company: Amazon, Amazon Robotics, Scanless Tech Team
+    company_url: 'https://www.aboutamazon.com/'
+    company_logo: Amazon
+    location: Westborough, MA, USA
+    date_start: '2024-08-26'
+    date_end: '2024-12-13'
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Data Collection & Annotation
+        * Coding
+        * Modeling
+        * Presentation
   - title: Student Researcher
     company: Google, AR Core, Motion Tracking Team
     company_url: 'https://https://developers.google.com/ar'

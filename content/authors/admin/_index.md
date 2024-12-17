@@ -46,6 +46,7 @@ I received a bachelor’s degree in automation from Nanjing University, Nanjing,
 **I am currently seeking full-time positions as a research scientist or machine learning engineer.**
 
 ## News
+* [2024/12] Finshed my applied scientist internship at Amazon Robotics, Westborough, MA, USA.
 * [2024/8] Start my applied scientist internship at Amazon Robotics, Westborough, MA, USA.
 * [2024/8] Finished my student researcher internship at Augmented Reality team of Google, Mountain View, CA, USA.
 * [2024/7] Our paper "MetaAT: Active Testing for Label-Efficient Evaluation of Dense Recognition Tasks" is accepted by the 2024 European Conference on Computer Vision (ECCV).
