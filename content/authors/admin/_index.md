@@ -1,9 +1,10 @@
 ---
 title: Sanbao Su
-role: Ph.D. student
+role: Software Engineer
 avatar_filename: avatar.png
-bio: My research interests include robustness, perception, VLM, DL, and RL.
+bio: My research interests include system Infrastructure, robustness, perception, VLM, DL, and RL.
 interests:
+  - System Infrastructure
   - Robustness
   - Perception
   - Reinforcement Learning
@@ -21,13 +22,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 organizations:
-  - name: University of Connecticut
-    url: https://uconn.edu/
+  - name: Google
+    url: https://cloud.google.com/
 education:
   courses:
-    - course: Ph.D. in Computer Science and Engineering
+    - course: Ph.D. in Computer Engineering
       institution: University of Connecticut
-      year: 2025 (expected)
+      year: 2025
     - course: MS in Electronic Science and Technology
       institution: Shanghai Jiao Tong University
       year: 2019
@@ -38,22 +39,23 @@ email: susanbaonju@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. student at the University of Connecticut. My current research interests include robustness, perception, VLM, DL, and RL.
-
+I am a Software Engineer at Google Cloud, specializing in LLM system infrastructure. I earned my Ph.D. in Computer Engineering from the University of Connecticut. My doctoral research focused on advancing robustness, perception, VLMs, DL, and RL.
 
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a full-time software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
 
 **I am currently seeking full-time positions as a research scientist or machine learning engineer.**
 
 ## News
+* [2025/5] Start my full-time software engineer work in Google Cloud.
+* [2025/5] Defended my Ph.D. dissertation titled “Uncertainty-Aware Algorithms for Robust and Efficient Perception.”. Graduated from the University of Connecticut.
 * [2024/12] Finshed my applied scientist internship at Amazon Robotics, Westborough, MA, USA.
 * [2024/8] Start my applied scientist internship at Amazon Robotics, Westborough, MA, USA.
 * [2024/8] Finished my student researcher internship at Augmented Reality team of Google, Mountain View, CA, USA.
 * [2024/7] Our paper "MetaAT: Active Testing for Label-Efficient Evaluation of Dense Recognition Tasks" is accepted by the 2024 European Conference on Computer Vision (ECCV).
 * [2024/5] Submit one paper to Neurips 2024.
 * [2024/5] Exciting to receive the Pratt & Whitney Advanced Systems Engineering Fellowship and the Predoctoral Fellowship from UCONN.
-* [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters. It is available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
-* [2024/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by Transactions on Machine Learning Research.
+<!-- * [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters. It is available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/). -->
+<!-- * [2024/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by Transactions on Machine Learning Research. -->
 <!-- * [2023/11] Our paper "ViTAL: Vision Transformer-Assisted Active Testing for Label-Efficient Evaluation of Complex Vision Tasks" is submitted to CVPR 2024. -->
 * [2023/8] Completed the research internship at Bosch, Sunnyvale, CA, USA. Express my heartfelt gratitude to my manager, mentor and all colleagues.
 <!-- * [2023/5] Our paper "Robust Multi-Agent Reinforcement Learning with State Uncertainty" is accepted by Transactions on Machine Learning Research.
