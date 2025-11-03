@@ -12,12 +12,12 @@ content:
   office_hours:
   phone: 
   appointment_url: 
-  directions: Office 221
+  directions: BORD1212
   address:
-    street: 371 Fairfield Way, Unit 4155
-    city: Storrs
-    region: CT
-    postcode: "06269"
+    street: 1212 Bordeaux Dr
+    city: Sunnyvale
+    region: CA
+    postcode: "94086"
     country: United States
     country_code: US
   contact_links:
