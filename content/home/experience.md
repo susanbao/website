@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Google LLC
+    company_url: 'https://cloud.google.com/'
+    company_logo: Google
+    location: Sunnyvale, CA, USA
+    date_start: '2025-05-12'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * System design
+        * Coding
+        * Modeling
+        * Leading Projects
   - title: Research Assistant
     company: University of Connecticut
     company_url: 'https://uconn.edu/'
     company_logo: uconn
     location: Storrs, CT, USA
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2025-05-11'
     description: |2-
         Responsibilities include:
 
