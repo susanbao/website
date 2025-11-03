@@ -43,8 +43,6 @@ I am a Software Engineer at Google Cloud, specializing in LLM system infrastruct
 
 I received a bachelor’s degree in automation from Nanjing University, Nanjing, China, in 2016, and a master’s degree in electronic science and technology from Shanghai Jiao Tong University, Shanghai, China, in 2019. After graduation, I worked as a full-time software engineer in Shanghai Huawei Technologies Company, China, from 2019 to 2021. I joined UConn as a Ph.D. student in computer science and engineering starting in Autumn 2021.
 
-**I am currently seeking full-time positions as a research scientist or machine learning engineer.**
-
 ## News
 * [2025/5] Start my full-time software engineer work in Google Cloud.
 * [2025/5] Defended my Ph.D. dissertation titled “Uncertainty-Aware Algorithms for Robust and Efficient Perception.”. Graduated from the University of Connecticut.
